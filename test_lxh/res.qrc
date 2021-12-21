@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/app.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/load.gif</file>
+        <file>images/cake.gif</file>
+    </qresource>
+    <qresource prefix="/sing">
+        <file>sing/song.mp3</file>
+    </qresource>
+</RCC>
